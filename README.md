@@ -9,7 +9,7 @@ It is licenced as GPL version 2 or later.
 
 ## Installation:
 
-Copy the files realscale.py and realscale.inx into the directory indicated in Edit -> Preferences -> System: User extensions
+Copy the files inkpacking.py and inkpacking.inx into the directory indicated in Edit -> Preferences -> System: User extensions
 
 ## Usage:
 
