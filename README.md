@@ -5,6 +5,8 @@ The extension was created by inkscapeforum.com member celso.junior in 2011 (see 
 
 This repository is intended to facilitate further development of the extension and to make it readily accessible. If you would like to contribute or take over maintenance, please contact github user Moini via this repository's [issue section](https://github.com/Moini/inkpacking/issues).
 
+It is licenced as GPL version 2 or later.
+
 ## Installation:
 
 Copy the files realscale.py and realscale.inx into the directory indicated in Edit -> Preferences -> System: User extensions
