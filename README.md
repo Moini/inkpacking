@@ -1,7 +1,7 @@
 # inkpacking
 Inkscape extension to create foldable boxes, with finger slots and different flaps, takes paper thickness into account
 
-The extension was created by inkscapeforum.com member celso.junior in 2011 (see [this forum post](http://www.inkscapeforum.com/viewtopic.php?f=34&t=10880) for more details and a description by the original author). It has been updated to be compatible with Inkscape 0.91.
+The extension was published by inkscapeforum.com member celso.junior in 2011 (see [this forum post](http://www.inkscapeforum.com/viewtopic.php?f=34&t=10880) for more details and a description by the original author). It has been updated to be compatible with Inkscape 0.91.
 
 This repository is intended to facilitate further development of the extension and to make it readily accessible. If you would like to contribute or take over maintenance, please contact github user Moini via this repository's [issue section](https://github.com/Moini/inkpacking/issues).
 
